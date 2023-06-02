@@ -1,3 +1,6 @@
+CREATE DATABASE IF NOT EXISTS mailchat;
+
+
 USE mailchat;
 
 CREATE TABLE IF NOT EXISTS DataUsers (
